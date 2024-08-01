@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WorldWise/static/css/main.57218a52.css",
+    "main.js": "/WorldWise/static/js/main.f00cab09.js",
+    "static/js/453.002fe5ae.chunk.js": "/WorldWise/static/js/453.002fe5ae.chunk.js",
+    "static/media/bg.jpg": "/WorldWise/static/media/bg.3e2be86d98db926ce9f0.jpg",
+    "static/media/img-2.jpg": "/WorldWise/static/media/img-2.3eb4d0108808cee1741d.jpg",
+    "static/media/img-1.jpg": "/WorldWise/static/media/img-1.419fc9a3a8780ba817a7.jpg",
+    "static/media/logo.png": "/WorldWise/static/media/logo.5d175645f31ad3e6987d.png",
+    "index.html": "/WorldWise/index.html",
+    "main.57218a52.css.map": "/WorldWise/static/css/main.57218a52.css.map",
+    "main.f00cab09.js.map": "/WorldWise/static/js/main.f00cab09.js.map",
+    "453.002fe5ae.chunk.js.map": "/WorldWise/static/js/453.002fe5ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57218a52.css",
+    "static/js/main.f00cab09.js"
+  ]
+}
