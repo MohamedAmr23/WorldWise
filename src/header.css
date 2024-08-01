@@ -1,0 +1,29 @@
+nav{
+    padding: 20px 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .img{
+    width: 150px;
+}
+nav a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: #ececec;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+nav .login{
+    background-color: #00c46a;
+    color: #242a2e;
+    padding: 9px 16px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}

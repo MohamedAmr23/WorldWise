@@ -1,0 +1,85 @@
+.container{
+    background-color: #242a2e;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: #42484d;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+   width: 30%;
+
+}
+.imgStyle{
+    margin:auto;
+}
+.formStyle{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-top: 10px;
+}
+.input{
+    border-radius: 2px;
+    padding: 5px 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    transition: .3s;
+}
+.input:focus{
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.btn{
+    padding: 5px;
+    color: #fff;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    background-color: #242a2e;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.lineContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #ccc;
+    margin: 0px 0px;
+}
+.or{
+    position: relative;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.noAccount{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 20px;
+
+}
+.noAccount a{
+    text-decoration: none;
+}
+.styleLink{
+    color: red;
+    transition: .3s;
+}
+.styleLink:hover{
+    font-size: 15px;
+    color: green;
+}
